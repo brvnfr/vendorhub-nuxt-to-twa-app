@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vendorhub</string>
+    <string name="asset_statements">[{\"include\": \"https://develop.d35ur8hsgk7q93.amplifyapp.com/.well-known/assetlinks.json\"}]</string>
+
+</resources>
